@@ -1,0 +1,14 @@
+uuid: 6a6138c8-82ee-4e35-8f16-3069da398a8f
+name: savabien
+mail: salifu.traore@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
